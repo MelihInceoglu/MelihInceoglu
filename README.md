@@ -15,11 +15,6 @@
 &nbsp;<img height="32" width="22" src="https://unpkg.com/simple-icons@v9/icons/instagram.svg" align= "center"/>&nbsp; [instagram]
 
 <br />
-<br />
-<br />
-
-<br />
-<br />
 
 ### Tech I Use
 
