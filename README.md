@@ -23,10 +23,26 @@
 
 ### Tech I Use
 
-<p align="left" dir="auto"> 
-<a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45" style="max-width: 100%;">
-</a><a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" style="max-width: 100%;"> </a>
-  <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" style="max-width: 100%;"> </a> <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="45" height="45" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>    <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="max-width: 100%;"> </a> <a href="https://www.selenium.dev" rel="nofollow"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="45" height="45" style="max-width: 100%;"> </a> <a href="https://junit.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/aded1cac6ac401994129740a5666bb771adeacb0702353aa8601a89f992723c6/68747470733a2f2f7777772e6f70656e636f64657a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30342f4a756e69742d312e706e67" alt="junit" width="45" height="45" data-canonical-src="https://www.opencodez.com/wp-content/uploads/2019/04/Junit-1.png" style="max-width: 100%;"> </a> <a href="https://testng.org/doc/" rel="nofollow"> <img src="https://camo.githubusercontent.com/4302b30ac1ff2208653386167e85b46a711d51653da525a71704ea652993248e/68747470733a2f2f626c6f672e6b6e6f6c6475732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30312f544553544e472e706e67" alt="TestNG" width="85" height="45" data-canonical-src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png" style="max-width: 100%;"> </a>
+<br />
+
+<h3 align="left">Languages and Tools:</h3>
+
+<code><a href="https://www.java.com/" target="_blank"><img width="40" height="40" src="https://www.pngplay.com/wp-content/uploads/9/Java-PNG-Clipart-Background.png"></a></code>
+<code><a href="https://www.selenium.dev/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png"></a></code>
+<code><a href="https://testng.org/doc/" target="_blank"><img width="40" height="40" src="https://camo.githubusercontent.com/c2ee76a6a7c7a90255d20239a45e72a3cd9e13e865de3189cb16c473d2e356f0/68747470733a2f2f626c6f67732e70657266696369656e742e636f6d2f66696c65732f323031342f30382f546573744e472e706e67"></a></code>
+<code><a href="https://cucumber.io/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a></code>
+<code><a href="https://www.api.com" target="_blank"><img width="50" height="50" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*cS4eMyLAWyQwRU1S.png"></a></code>
+<code><a href="https://swagger.io/" target="_blank"><img width="40" height="40" src="https://camo.githubusercontent.com/cd4d6e827e898b9c5ae2b9b2c08371a2fa6518ac4c6cdb04aa570c89a6585e9a/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f532f737761676765722d6c6f676f2d413439463733424146342d7365656b6c6f676f2e636f6d2e706e67"></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png"></a></code>
+<code><a target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code>
+<code><a href="https://www.jetbrains.com/idea/features/" target="_blank"><img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="40" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a></code>
+<code><a target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg"></a></code>
+<code><a href="https://postman.com" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a></code>
+<code><a target="_blank"><img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></a></code>
+<code><a target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
+<code><a href="https://github.com/RanaOzkan" target="_blank"><img width="55" height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
 </p>
 
 <br />
