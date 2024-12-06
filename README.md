@@ -11,8 +11,7 @@
 
 <br />
 
-<img height="32" width="22" src="https://unpkg.com/simple-icons@v9/icons/linkedin.svg" align= "center"/>&nbsp; [linkedin] &nbsp;|
-&nbsp;<img height="32" width="22" src="https://unpkg.com/simple-icons@v9/icons/instagram.svg" align= "center"/>&nbsp; [instagram]
+<img height="32" width="22" src="https://unpkg.com/simple-icons@v9/icons/linkedin.svg" align= "center"/>&nbsp; [linkedin] 
 
 <br />
 
