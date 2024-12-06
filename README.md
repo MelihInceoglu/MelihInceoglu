@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MelihInceoglu&color=green)
 
-## Hi, I'm Melih INCEOGLU. :blush:
+## Hi, I'm Melih INCEOGLU
 
 ### Test Automation Engineer
 
