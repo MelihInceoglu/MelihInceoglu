@@ -1,4 +1,3 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9nOXlsZGpkZXJmc3Y5aTVtd2wzMmRrdHUzYzJ0YTUxanphZzkwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" align ='right' width ="250" height ="200" />
 
 ![](https://komarev.com/ghpvc/?username=MelihInceoglu&color=green)
 
